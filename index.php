@@ -17,6 +17,7 @@ require_once 'config.php'; require_once 'database.php'; ?>
 
 <div class="scanlines"></div>
 <div class="grid-overlay"></div>
+<div class="ambient-glow"></div>
 
 <!-- ═══ LOGIN MODAL ══════════════════════════════════════════ -->
 <div class="login-overlay" id="login-overlay">
